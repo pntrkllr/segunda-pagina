@@ -1,0 +1,66 @@
+  body{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .fondo-principal{
+    background-color: rgb(45, 45, 45);
+  }
+
+  .cuadro-1{
+    background-color: cyan;
+    color: black;
+    margin-left: 150px;
+    margin-right: 50px;
+    text-align: center;
+    padding: 35px;
+  }
+
+  .cuadro-2{
+    background-color: yellow;
+    color: black;
+    margin-left: 150px;
+    margin-right: 50px;
+    text-align: center;
+    padding: 35px;
+  }
+
+  .cuadro-3{
+    background-color: orange;
+    color: black;
+    margin-left: 150px;
+    margin-right: 50px;
+    text-align: center;
+    padding: 35px;
+  }
+
+  .cuadro-4{
+    background-color: red;
+    color: white;
+    margin-left: 150px;
+    margin-right: 50px;
+    text-align: center;
+    padding: 35px;
+  }
+
+  .barra-lateral {
+    position: fixed;
+    height: 100%;
+    width: 150px;
+    background-color: rgb(45, 45, 45);
+  }
+  
+  .barra-lateral ul {
+    margin-left: 20px;
+    margin-top: 25px;
+    padding: 0;
+  }
+  
+  .barra-lateral ul li a {
+    color: white;
+    text-decoration: none;
+  }
+
+  ul li a:hover{
+    color: rgb(140, 140, 140);
+  }
